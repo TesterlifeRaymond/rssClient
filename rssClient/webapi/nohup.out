@@ -1,0 +1,76 @@
+[2018-09-12 17:26:56 +0800] [22174] [INFO] Starting gunicorn 19.9.0
+[2018-09-12 17:26:56 +0800] [22174] [INFO] Listening at: http://0.0.0.0:6379 (22174)
+[2018-09-12 17:26:56 +0800] [22174] [INFO] Using worker: sync
+[2018-09-12 17:26:56 +0800] [22177] [INFO] Booting worker with pid: 22177
+[2018-09-12 17:26:56 +0800] [22179] [INFO] Booting worker with pid: 22179
+[2018-09-12 17:26:56 +0800] [22180] [INFO] Booting worker with pid: 22180
+[2018-09-12 17:26:56 +0800] [22182] [INFO] Booting worker with pid: 22182
+[2018-09-12 17:34:31 +0800] [22180] [INFO] Parent changed, shutting down: <Worker 22180>
+[2018-09-12 17:34:31 +0800] [22180] [INFO] Worker exiting (pid: 22180)
+rssswitch.xml
+[2018-09-12 17:40:25 +0800] [23019] [INFO] Starting gunicorn 19.9.0
+[2018-09-12 17:40:25 +0800] [23019] [INFO] Listening at: http://0.0.0.0:5000 (23019)
+[2018-09-12 17:40:25 +0800] [23019] [INFO] Using worker: sync
+[2018-09-12 17:40:25 +0800] [23022] [INFO] Booting worker with pid: 23022
+[2018-09-12 17:40:25 +0800] [23023] [INFO] Booting worker with pid: 23023
+[2018-09-12 17:40:25 +0800] [23026] [INFO] Booting worker with pid: 23026
+[2018-09-12 17:40:25 +0800] [23027] [INFO] Booting worker with pid: 23027
+[2018-09-12 20:02:35 +0800] [23019] [INFO] Handling signal: hup
+[2018-09-12 20:02:35 +0800] [23019] [INFO] Hang up: Master
+[2018-09-12 20:02:35 +0800] [30706] [INFO] Booting worker with pid: 30706
+[2018-09-12 20:02:35 +0800] [30707] [INFO] Booting worker with pid: 30707
+[2018-09-12 20:02:35 +0800] [30705] [INFO] Booting worker with pid: 30705
+[2018-09-12 20:02:35 +0800] [30708] [INFO] Booting worker with pid: 30708
+[2018-09-19 14:20:04 +0800] [23019] [CRITICAL] WORKER TIMEOUT (pid:30705)
+[2018-09-19 14:20:04 +0800] [30705] [INFO] Worker exiting (pid: 30705)
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+rssswitch.xml
+[2018-09-19 14:20:04 +0800] [16429] [INFO] Booting worker with pid: 16429

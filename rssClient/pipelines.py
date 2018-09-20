@@ -26,6 +26,4 @@ class RssclientPipeline(object):
         return item
 
     def process_rss(self, item):
-        item.write_xml(open("webapi/rss_xml/rssswitch.xml", "w"))
-        
-        
+        item.write_xml(open("webapi/rss_xml/rssswitch.xml", "w", encoding='utf-8'), encoding='utf-8')
